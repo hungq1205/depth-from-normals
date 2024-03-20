@@ -1,0 +1,19 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "e:\\java\\lib\\gluegen-rt-android.jar",
+            "e:\\java\\lib\\gluegen-rt-natives-windows-amd64.jar",
+            "e:\\java\\lib\\jogl-all.jar",
+            "e:\\java\\lib\\jogl-all-natives-windows-amd64.jar",
+            "e:\\java\\lib\\joml-1.10.5-sources.jar",
+            "d:\\Download\\joml-1.10.5-sources (1).jar",
+            "d:\\Download\\joml-1.10.5.jar"
+        ],
+        "exclude": [
+            "e:\\java\\lib\\jre-stubs.jar"
+        ]
+    }
+}
