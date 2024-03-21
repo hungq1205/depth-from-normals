@@ -27,7 +27,6 @@ import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 import javax.swing.filechooser.FileNameExtensionFilter;
 
-import org.joml.Math;
 import org.joml.Vector3f;
 
 import com.jogamp.opengl.GLCapabilities;
@@ -39,7 +38,7 @@ public class App {
     public static final int SCREEN_HEIGHT = 750;
     public static final int NORMAL_IMAGE_SIZE = 310;
     public static final float PI = 3.14f;
-    public static final String INIT_PATH = "D:\\Download\\normal.png";
+    public static final String INIT_PATH = "normal.png";
 
     private static String imgPath = INIT_PATH;
     private static GLJPanel gljpanel;
